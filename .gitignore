@@ -1,0 +1,9 @@
+@"
+data/
+models/
+reports/
+__pycache__/
+*.pyc
+.venv/
+venv/
+"@ | Add-Content .gitignore
